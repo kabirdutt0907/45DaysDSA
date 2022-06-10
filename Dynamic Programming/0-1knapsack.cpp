@@ -101,7 +101,6 @@ int main(){
     	cout<<"1-D Optimized DP"<<" "<<prev[target]<<"\n";
 
 
-
     		
 	}
 		return 0;
