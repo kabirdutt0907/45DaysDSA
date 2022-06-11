@@ -24,7 +24,7 @@ int main(){
         int n;
         cin>>n;
         vector<int>v(n+1 , -1);
-        cout<<helper(n , v , n)<<"\n";
+        // cout<<helper(n , v , n)<<"\n";
         vector<int>v1(n+1 , 0);
         v1[0] = v1[1] = 1;
         for(int i = 0 ; i < n ; ++i){
